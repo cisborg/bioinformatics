@@ -1,8 +1,1 @@
-print('hellow durgs bank')
-
-greetings = 'good afternoon'
-
-def funk():
-    print('correct ',greetings)
-
-funk()
+print('drugs are goood')
