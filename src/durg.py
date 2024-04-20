@@ -80,3 +80,7 @@ class Myclass(metaclass = Meta):
     y=45
 
     def method(self):
+        pass
+
+
+
