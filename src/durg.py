@@ -63,7 +63,7 @@ def sub(x,y):
     return x-y
 
 result = output(add,5,6)
-
+output = lambda operation,x,y: operation(x,y)(lambda x,y:x+y,5,6)
 #metaclasses
 
 class Meta(type):
